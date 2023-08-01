@@ -1,12 +1,17 @@
 <template>
 
 <div class="centered">
-    <h1>😎 Personal site in progress. Come back later 😎 </h1>
+    <div>
+        <AboutMe />
+    </div>
+
 </div>
 
 </template>
 
 <script setup>
+import AboutMe from './AboutMe.vue';
+import workProject from './workProject.vue';
 
 </script>
 
