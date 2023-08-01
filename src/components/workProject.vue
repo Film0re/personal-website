@@ -16,7 +16,7 @@
                 The tool is used by sales reps to generate quotes for customers. 
                 </p>
 
-                <img src="../../public/assets/AQLT_homepage.png" class="img" alt="AquaLab Quoting Tool">
+                <img src="/assets/AQLT_homepage.png" class="img" alt="AquaLab Quoting Tool">
             <p>
                 Technology I have used in this project include:
             </p>

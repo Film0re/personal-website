@@ -6,7 +6,7 @@
     </template>
 
     <template #content>
-        <Image src="../../public/assets/RiotSign.jpg" alt="Daniel Dowdle" class="img" width="650" />
+        <Image src="/assets/RiotSign.jpg" alt="Daniel Dowdle" class="img" width="650" />
         <p>
             Hi my name is Daniel and I am currently a student at the University of Minnesota studying Computer Science.
             I will be a junior this fall, I'm exited to continue learning and growing as a developer.
