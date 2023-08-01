@@ -9,7 +9,7 @@
         <Image src="/assets/RiotSign.jpg" alt="Daniel Dowdle" class="img" width="650" />
         <p>
             Hi my name is Daniel and I am currently a student at the University of Minnesota studying Computer Science.
-            I will be a junior this fall, I'm exited to continue learning and growing as a developer.
+            I will be a junior this fall, I'm excited to continue learning and growing as a developer.
 
             Currently I am working as a Software Engineer Intern at <a href="https://hydraflexinc.com/">HydraFlex</a> where I am refactoring a quoting tool for the company.
 
