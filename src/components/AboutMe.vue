@@ -11,7 +11,9 @@
             Hi my name is Daniel and I am currently a student at the University of Minnesota studying Computer Science.
             I will be a junior this fall, I'm excited to continue learning and growing as a developer.
 
-            Currently I am working as a Software Engineer Intern at <a href="https://hydraflexinc.com/">HydraFlex</a> where I am refactoring a quoting tool for the company.
+            <br>
+            Over the summer I worked as a Software Engineer at <a href="https://hydraflexinc.com/">HydraFlex</a> where I refactored a quoting tool for the company.
+
 
             <br>
             <br>
